@@ -21,9 +21,17 @@ else {console.log ("No aplica")}
 
 var cantidad_hijos = prompt ()
 
-if (cantidad_hijos == 1) {console.log ("20% recargo por un hijo")}
-else if (cantidad_hijos == 2) {console.log ("40% recargo por dos hijos")}
-else if (cantidad_hijos == 3) {console.log ("60% recargo por tres hijos") }
-else if (cantidad_hijos == 4 ){console.log ("80% recargo por cuatro hijos")}
-else if (cantidad_hijos == 5) {console.log ("90% recargo a partir de cinco hijos")}
-else {console.log ("No aplica")} 
+switch (cantidad_hijos) {
+  case "1": console.log ("20% recargo por un hijo")
+  break;
+    
+  case "2": console.log ("40% recargo por dos hijos")
+  break;
+    
+  case "3": console.log ("60% recargo por tres hijos")
+  break;
+    
+  case "4": console.log ("80% recargo por cuatro hijos")
+  break; 
+    
+  default: console.log ("90% recargo a partir de cinco hijos")};
