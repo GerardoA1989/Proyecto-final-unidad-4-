@@ -4,5 +4,10 @@ El siguiente trabajo explica el funcionamiento de una calculadora en una compañ
 
 2. Mi user name para Git Hub es GerardoA1989 y la contraseña es: Teamosinmedid@20
 
-3. El nombre del repositorio es: GerardoA1989/
-Proyecto-final-unidad-4-
+3. El nombre del repositorio es: 
+
+GerardoA1989/Proyecto-final-unidad-4-
+
+4. El link para acceder a mi repositorio es: 
+
+https://github.com/GerardoA1989/Proyecto-final-unidad-4-
